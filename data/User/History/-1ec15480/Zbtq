@@ -1,0 +1,106 @@
+worldcup
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   .freeCodeCamp/package-lock.json
+#	new file:   data/CachedExtensionVSIXs/coderoad.coderoad-0.19.4-universal
+#	new file:   data/CachedExtensionVSIXs/github.vscode-pull-request-github-0.92.0-universal
+#	new file:   data/CachedProfilesData/__default__profile__/extensions.builtin.cache
+#	new file:   data/CachedProfilesData/__default__profile__/extensions.user.cache
+#	new file:   data/Machine/settings.json
+#	new file:   data/User/History/-1cac0853/Emks.sh
+#	new file:   data/User/History/-1cac0853/MXEh.sh
+#	new file:   data/User/History/-1cac0853/entries.json
+#	new file:   data/User/History/-1cac0853/sUwO.sh
+#	new file:   data/User/History/1f4c0163/6PtS.sh
+#	new file:   data/User/History/1f4c0163/6vLJ.sh
+#	new file:   data/User/History/1f4c0163/OiEb.sh
+#	new file:   data/User/History/1f4c0163/Zjcq.sh
+#	new file:   data/User/History/1f4c0163/entries.json
+#	new file:   data/User/globalStorage/github.vscode-pull-request-github/assignableUsers/freeCodeCamp/learn-world-cup-database.json
+#	new file:   data/User/globalStorage/github.vscode-pull-request-github/userIcons/cache.log
+#	new file:   data/User/globalStorage/github.vscode-pull-request-github/userIcons/flindyly.jpg
+#	new file:   data/User/globalStorage/redhat.vscode-yaml/schemas_cache/11cfe8e7da84692abc605cbc8bd0052b
+#	new file:   data/User/globalStorage/storage.json
+#	new file:   data/User/workspaceStorage/-2644f60b/vscode.lock
+#	new file:   data/logs/20240801T155052/exthost1/GitHub.vscode-pull-request-github/GitHub Pull Request.log
+#	new file:   data/logs/20240801T155052/exthost1/gitpod.gitpod-web/Gitpod Workspace.log
+#	new file:   data/logs/20240801T155052/exthost1/output_logging_20240801T155104/1-YAML Support.log
+#	new file:   data/logs/20240801T155052/exthost1/output_logging_20240801T155104/2-CodeRoad (Logs).log
+#	new file:   data/logs/20240801T155052/exthost1/output_logging_20240801T155104/3-CodeRoad (Tests).log
+#	new file:   data/logs/20240801T155052/exthost1/remoteexthost.log
+#	new file:   data/logs/20240801T155052/exthost1/vscode.git/Git.log
+#	new file:   data/logs/20240801T155052/exthost1/vscode.github/GitHub.log
+#	new file:   data/logs/20240801T155052/exthost1/vscode.json-language-features/JSON Language Server.log
+#	new file:   data/logs/20240801T155052/exthost2/GitHub.vscode-pull-request-github/GitHub Pull Request.log
+#	new file:   data/logs/20240801T155052/exthost2/gitpod.gitpod-web/Gitpod Workspace.log
+#	new file:   data/logs/20240801T155052/exthost2/output_logging_20240801T164710/1-CodeRoad (Logs).log
+#	new file:   data/logs/20240801T155052/exthost2/output_logging_20240801T164710/2-YAML Support.log
+#	new file:   data/logs/20240801T155052/exthost2/output_logging_20240801T164710/3-CodeRoad (Tests).log
+#	new file:   data/logs/20240801T155052/exthost2/remoteexthost.log
+#	new file:   data/logs/20240801T155052/exthost2/vscode.git/Git.log
+#	new file:   data/logs/20240801T155052/exthost2/vscode.github/GitHub.log
+#	new file:   data/logs/20240801T155052/exthost2/vscode.json-language-features/JSON Language Server.log
+#	new file:   data/logs/20240801T155052/network.log
+#	new file:   data/logs/20240801T155052/ptyhost.log
+#	new file:   data/logs/20240801T155052/remoteagent.log
+#	new file:   data/machineid
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/.eslintignore
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/.github/ISSUE_TEMPLATE/bug_report.md
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/.github/ISSUE_TEMPLATE/feature_request.md
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/.github/workflows/codeql-analysis.yml
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/.github/workflows/documentation.yml
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/.github/workflows/test.yml
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/.vsixmanifest
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/CHANGELOG.md
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/CONTRIBUTORS.md
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/LICENSE.md
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/README.md
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/asset-manifest.json
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/extension.js
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/extension.js.map
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/fonts/next-icon.svg
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/fonts/next-icon.woff2
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/fonts/roboto-bold.woff2
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/fonts/roboto-light.woff2
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/fonts/roboto-medium.woff2
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/fonts/roboto-regular.woff2
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/fonts/roboto-thin.woff2
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/index.html
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/manifest.json
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/static/css/2.bc1263e8.chunk.css
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/static/css/main.4671255a.chunk.css
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/static/js/2.be24d79c.chunk.js
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/static/js/2.be24d79c.chunk.js.LICENSE.txt
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/static/js/main.2619bfec.chunk.js
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/build/static/js/runtime-main.65cea6c6.js
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/coderoad_icon.png
+#	new file:   extensions/coderoad.coderoad-0.19.4-universal/package.json
+#	new file:   extensions/extensions.json
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/.vsixmanifest
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/CHANGELOG.md
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/LICENSE.txt
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/README.md
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/SECURITY.md
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/dist/browser/extension.js
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/dist/extension.js
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/dist/webview-create-pr-view-new.js
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/dist/webview-open-pr-view.js
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/dist/webview-pr-description.js
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/package.json
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/package.nls.json
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/resources/icons/github_logo.png
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/resources/icons/reactions/confused.png
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/resources/icons/reactions/eyes.png
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/resources/icons/reactions/heart.png
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/resources/icons/reactions/hooray.png
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/resources/icons/reactions/laugh.png
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/resources/icons/reactions/rocket.png
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/resources/icons/reactions/thumbs_down.png
+#	new file:   extensions/github.vscode-pull-request-github-0.92.0-universal/resources/icons/reactions/thumbs_up.png
+#
+# Changes not staged for commit:
+#	modified:   data/logs/20240801T155052/exthost2/vscode.git/Git.log
+#

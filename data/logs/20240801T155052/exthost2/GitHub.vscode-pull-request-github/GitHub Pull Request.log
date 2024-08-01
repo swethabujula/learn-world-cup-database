@@ -46,3 +46,9 @@
 2024-08-01 16:48:52.121 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
 2024-08-01 16:48:52.426 [info] No globalState for assignableUsers.
 2024-08-01 16:50:50.536 [error] Review+0> Timeout occurred while validating state.
+2024-08-01 16:53:08.263 [info] Review+0> Validate state in progress
+2024-08-01 16:53:08.263 [info] Review+0> Validating state...
+2024-08-01 16:53:08.705 [info] Found GitHub remote for folder /workspace/.vscode-remote
+2024-08-01 16:53:08.706 [info] Using in-memory cached assignable users.
+2024-08-01 16:53:08.852 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-01 16:53:09.114 [info] Review+0> No matching pull request metadata found on GitHub for current branch master

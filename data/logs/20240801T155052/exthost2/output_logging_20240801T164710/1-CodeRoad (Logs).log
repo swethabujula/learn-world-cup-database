@@ -217,3 +217,13 @@ ROUTE: "Tutorial.Level.StepNext": Completed level 1, step 1.1
 EDITOR_LEVEL_COMPLETE
 STATE: "Tutorial.Level.LevelComplete"
 ROUTE: "Tutorial.Level.LevelComplete": Completed level 1, step 1.1
+Commit saved: [master 459f274] Save progress: 1.1
+ 8 files changed, 714 insertions(+), 12 deletions(-)
+ mode change 100644 => 100755 insert_data.sh
+ mode change 100644 => 100755 queries.sh
+
+EDITOR_SYNC_POSITION
+EDITOR_TUTORIAL_COMPLETE
+STATE: "Tutorial.Completed"
+ROUTE: "Tutorial.Completed": Completed level 1, step 1.1
+Called webhook endpoint https://api.freecodecamp.org/coderoad-challenge-completed with body "{\"tutorialId\":\"freeCodeCamp/learn-world-cup-database:v1.0.0\"}"
