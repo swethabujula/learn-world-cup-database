@@ -18,3 +18,7 @@
 2024-08-01 16:47:27.745 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-08-01 16:47:27.746 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-08-01 16:48:01.763 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2024-08-01 16:48:52.591 [error] HttpError: Not Found
+	at /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.92.0-universal/dist/extension.js:2095:6173
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async T1.execute (/workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.92.0-universal/dist/extension.js:2053:46696)

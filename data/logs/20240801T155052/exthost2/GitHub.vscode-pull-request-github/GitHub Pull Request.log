@@ -18,3 +18,31 @@
 2024-08-01 16:47:36.868 [info] No GitHub remotes found for folder /workspace/.vscode-remote
 2024-08-01 16:47:36.885 [info] Review+0> No matching pull request metadata found locally for current branch master
 2024-08-01 16:47:36.903 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-01 16:48:36.740 [info] Review+0> Validate state in progress
+2024-08-01 16:48:36.740 [info] Review+0> Validating state...
+2024-08-01 16:48:36.742 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-01 16:48:36.743 [info] No GitHub remotes found for folder /workspace/.vscode-remote
+2024-08-01 16:48:36.764 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-01 16:48:36.796 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-01 16:48:48.687 [info] Review+0> Validate state in progress
+2024-08-01 16:48:48.687 [info] Review+0> Validating state...
+2024-08-01 16:48:48.733 [info] Review+0> Queuing additional validate state
+2024-08-01 16:48:48.970 [info] Found GitHub remote for folder /workspace/.vscode-remote
+2024-08-01 16:48:49.273 [info] Trying to use globalState for assignableUsers.
+2024-08-01 16:48:49.404 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-01 16:48:49.431 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-01 16:48:49.936 [info] Using globalState assignableUsers for 1.
+2024-08-01 16:48:50.535 [info] Review+0> Validating state...
+2024-08-01 16:48:50.815 [info] Found GitHub remote for folder /workspace/.vscode-remote
+2024-08-01 16:48:51.069 [info] Trying to use globalState for assignableUsers.
+2024-08-01 16:48:51.219 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-01 16:48:51.300 [info] Review+0> Validate state in progress
+2024-08-01 16:48:51.300 [info] Review+0> Validating state...
+2024-08-01 16:48:51.305 [warning] GitHubServer> No response from host https://origi/n: request to https://origi/api/v3/rate_limit failed, reason: getaddrinfo ENOTFOUND origi
+2024-08-01 16:48:51.691 [info] Found GitHub remote for folder /workspace/.vscode-remote
+2024-08-01 16:48:51.692 [info] Trying to use globalState for assignableUsers.
+2024-08-01 16:48:51.830 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-01 16:48:51.896 [info] No globalState for assignableUsers.
+2024-08-01 16:48:52.121 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-01 16:48:52.426 [info] No globalState for assignableUsers.
+2024-08-01 16:50:50.536 [error] Review+0> Timeout occurred while validating state.
